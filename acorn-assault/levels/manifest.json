@@ -3,9 +3,9 @@
   "levels": {
     "101": {
       "file": "level_101.aal1",
-      "rev": "00f2a8f717ba",
-      "sha256": "540e3932dd3a4565d8bb20f58a957595a9bd78c6861ef35cf549a8ef1a8325d8",
-      "size": 5476
+      "rev": "dcc109a3af21",
+      "sha256": "03da2d4ce9a6b85bdd9c10807eef87bfc5a9831cc38ad8b655a9b2d668980bc6",
+      "size": 6916
     },
     "102": {
       "file": "level_102.aal1",
