@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "levels": {
+    "101": {
+      "file": "level_101.aal1",
+      "rev": "00f2a8f717ba",
+      "sha256": "540e3932dd3a4565d8bb20f58a957595a9bd78c6861ef35cf549a8ef1a8325d8",
+      "size": 5476
+    },
+    "102": {
+      "file": "level_102.aal1",
+      "rev": "82545f3b49f8",
+      "sha256": "d41d97dffabd82ea9f0ae6de8f547bf1f6eab1e450fce3995ded3c5684a9176a",
+      "size": 6132
+    },
+    "103": {
+      "file": "level_103.aal1",
+      "rev": "0c724b22e4a7",
+      "sha256": "d8b98be81038f3177364fa86559d0bb207db245aa62f8cb89f2fb66d4935a759",
+      "size": 5060
+    },
+    "104": {
+      "file": "level_104.aal1",
+      "rev": "dd3169ba5165",
+      "sha256": "b42c8237acf69039f83819e02e257da7a6012e4d29bebef24894eea92684319f",
+      "size": 4996
+    },
+    "105": {
+      "file": "level_105.aal1",
+      "rev": "53d9774a2ff5",
+      "sha256": "fdf1281dc1352640b1f7aa0396b070675cd908d38dffd23dbaf6f8512701110a",
+      "size": 5812
+    },
+    "106": {
+      "file": "level_106.aal1",
+      "rev": "6b9ef7f3ed86",
+      "sha256": "4730c42575984760e2a4a2913a3bab79e0ef614e7e10b43494c50fb4ebe9f169",
+      "size": 6788
+    },
+    "107": {
+      "file": "level_107.aal1",
+      "rev": "adf07f77f16f",
+      "sha256": "4f788935efc3381598c0176f217125fc9e8ea7654b5e60d433e7e99b2e6ade9a",
+      "size": 4612
+    },
+    "108": {
+      "file": "level_108.aal1",
+      "rev": "bc19c0dfeda3",
+      "sha256": "706e6768cf928b3fd41e587f4c6fc9bb62b2e60522a145c0a6229e7dec5ec41e",
+      "size": 6132
+    },
+    "109": {
+      "file": "level_109.aal1",
+      "rev": "245050772617",
+      "sha256": "e32c8cd0ed6f38312d88200a00c0eb2abefd9fedd78651bed0e35cbdced08a2a",
+      "size": 5204
+    },
+    "110": {
+      "file": "level_110.aal1",
+      "rev": "1656ed9c0016",
+      "sha256": "a63ca196c6e244c0a551e5132c3d1258e0e315924d6a24453d5092a8c53f0bb5",
+      "size": 5092
+    }
+  }
+}
